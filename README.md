@@ -30,3 +30,8 @@ Environment
 Next steps
 - Implement full backend OTP endpoints and swap mock service for real endpoints
 - Add equipments listing and request creation pages
+
+Dummy User IDs
+- Borrower "1"
+- Admin "2"
+- OTP from console
